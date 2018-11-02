@@ -1,0 +1,20 @@
+Language - Lawa (ISO 639-3 code: lwl)
+- folder contains:
+-- Elephant_Tiger.TextGrid
+-- Elephant_Tiger.wav
+--- Speaker: Ta Saai
+--- Synopsis: Story of a challenge between the Elephant and Tiger to find out who was the most powerful.
+
+Language - Pnar (ISO 639-3 code: pbv)
+- folder contains
+-- LathadlabotHistory.TextGrid
+-- LathadlabotHistory.wav
+--- Speaker: Fidell War
+--- Synopsis: The history of the founding of Lathadlabot Presbyterian Church and the associated school.
+
+Language - Sora (ISO 639-3 code: srb)
+- folder contains
+-- OldMan_Woman.TextGrid
+-- OldMan_Woman.wav
+--- Speaker: Opino Gomango
+--- Synopsis: Tale about the sons of an old man and woman that explains the reason for funerary rites.
